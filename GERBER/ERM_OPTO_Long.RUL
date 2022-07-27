@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\yee\OneDrive - SLAC National Accelerator Laboratory\Altium\Altium_Yee_lib\optobox\ERM_OPTO_Long\ERM_OPTO_Long.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=1.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00

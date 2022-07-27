@@ -1,0 +1,46 @@
+Altium Designer Pick and Place Locations
+C:\Users\yee\OneDrive - SLAC National Accelerator Laboratory\Altium\Altium_Yee_lib\optobox\ERM_OPTO_Long\GERBER\Pick Place for ERM_OPTO_Long.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/02/22
+Time:       14:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"CA32","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4454.725","259.528","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA31","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4503.937","456.378","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA30","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4356.299","259.528","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA29","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4405.512","456.378","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA28","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4257.874","259.528","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA27","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4307.087","456.378","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA26","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4159.449","259.528","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA25","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4208.662","456.378","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA24","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4061.024","259.528","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA23","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4110.236","456.378","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA22","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","3962.599","259.528","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA21","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4011.811","456.378","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA20","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","3874.016","259.528","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA19","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","3913.386","456.378","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA18","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","3775.591","259.528","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA17","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","3814.961","456.378","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA16","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","3765.748","653.228","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA15","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","3814.961","850.079","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA14","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","3864.173","653.228","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA13","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","3913.386","850.079","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA12","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","3962.599","653.228","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA11","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4011.811","850.079","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA10","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4061.024","653.228","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA9","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4110.236","850.079","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA8","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4159.449","653.228","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA7","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4208.662","850.079","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA6","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4257.874","653.228","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA5","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4307.087","850.079","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA4","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4356.299","653.228","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA3","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4405.512","850.079","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA2","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4454.725","653.228","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"CA1","Molex_Cable_100068-0052","TopLayer","MOLEX_CABLE_100068-0052_NO_VIA","4503.937","850.079","270","Molex; 100068-0052, Twinax Cable 34AWG 100 Ohms"
+"J1","ERF8-050-XX.X-X-DV","MidLayer2","ERF8-050-XX.X-X-DV","988.484","280.917","0","Socket Assembly, Double Row Vertical, Surface Mount, 0.8mm Pitch, 100 Pins"

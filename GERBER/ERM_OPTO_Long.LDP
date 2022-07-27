@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\yee\OneDrive - SLAC National Accelerator Laboratory\Altium\Altium_Yee_lib\optobox\ERM_OPTO_Long\ERM_OPTO_Long.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=erm_opto_long.txt|DrillLayers=gtl,gp1,g1,gp2,g2,g3,gbl
+LayersSetName=_3InnerSignal1__5InnerSignal2_Buried_Vias|DrillFile=erm_opto_long.tx1|DrillLayers=g1,gp2,g2

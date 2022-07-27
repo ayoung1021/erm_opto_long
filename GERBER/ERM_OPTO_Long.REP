@@ -1,0 +1,546 @@
+*************************************************************
+FileName = ERM_OPTO_Long.GBR
+AutoAperture = True
+*************************************************************
+Generating : Flex Rigion Bottom
+      File : ERM_OPTO_Long.GBO
+
+    Adding Layer      : Flex Rigion Bottom
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Layer_2 GND Plane 1
+      File : ERM_OPTO_Long.GP1
+
+    Adding Layer      : Layer_2 GND Plane 1
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Flex Region Top Overlay 1
+      File : ERM_OPTO_Long.GTO
+
+    Adding Layer      : Flex Region Top Overlay 1
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Flex Region Top Coverlay 1
+      File : ERM_OPTO_Long.GTS
+
+    Adding Layer      : Flex Region Top Coverlay 1
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Layer_1 Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Layer_4 GND Plane 2
+      File : ERM_OPTO_Long.GP2
+
+    Adding Layer      : Layer_4 GND Plane 2
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D38
+    D40
+    D41
+    D42
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ERM_OPTO_Long.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Layer_1 Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Flex Region Bottom Coverlay 1
+      File : ERM_OPTO_Long.GBS
+
+    Adding Layer      : Flex Region Bottom Coverlay 1
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Layer_7 Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D30
+    D32
+    D33
+    D34
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Layer_1 Top
+      File : ERM_OPTO_Long.GTL
+
+    Adding Layer      : Layer_1 Top
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ERM_OPTO_Long.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Layer_7 Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Layer_3 Inner Signal 1
+      File : ERM_OPTO_Long.G1
+
+    Adding Layer      : Layer_3 Inner Signal 1
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D35
+    D36
+    D37
+    D43
+    D44
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Layer_5 Inner Signal 2
+      File : ERM_OPTO_Long.G2
+
+    Adding Layer      : Layer_5 Inner Signal 2
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D35
+    D36
+    D37
+    D43
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Layer_7 Bottom
+      File : ERM_OPTO_Long.GBL
+
+    Adding Layer      : Layer_7 Bottom
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Layer_6 GND Plane 3
+      File : ERM_OPTO_Long.G3
+
+    Adding Layer      : Layer_6 GND Plane 3
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ERM_OPTO_Long.GD1
+
+    Adding Layer      : Title Block
+
+    Adding Layer      : Label Layer
+
+    Adding Drill Pair : Layer_1 Top-Layer_7 Bottom
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D52
+    D53
+    D54
+    D55
+    D56
+*************************************************************
+

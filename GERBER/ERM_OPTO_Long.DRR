@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ERM_OPTO_Long.PcbDoc   2/17/2022  2:47:31 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Layer_1 Top to Layer_7 Bottom
+ASCII RoundHoles File : ERM_OPTO_Long.TXT
+EIA File   : ERM_OPTO_Long.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.152mm)                                            Round             64        PTH        0.00inch (0.00mm)
+T2      8mil (0.203mm)                                            Round             32        PTH        0.00inch (0.00mm)
+T4      95mil (2.413mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T5      33mil (0.83mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+T6      57mil (1.45mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              102
+Layer Pair : Layer_3 Inner Signal 1 to Layer_5 Inner Signal 2
+ASCII RoundHoles File : ERM_OPTO_Long.TX1
+EIA File   : ERM_OPTO_Long.DR1
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T2      8mil (0.203mm)                                            Round             66        PTH        0.00inch (0.00mm)
+T3      90mil (2.286mm)                                           Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              68
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              170
+
+Total Processing Time (hh:mm:ss) : 00:00:00
